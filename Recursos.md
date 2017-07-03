@@ -1,5 +1,7 @@
 # Recursos Eficiencia
 
+[Medidor de consumo en ecloud](https://learn.adafruit.com/build-a-cloud-connected-esp8266-power-meter?view=all)
+
 ## Medida de corriente
 
 ACS754
