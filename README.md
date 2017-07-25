@@ -19,4 +19,20 @@ Toda la información así como el control está disponible desde Internet posibi
 * Sensor de corriente
 * Reles para control remoto
 
-### Ampliación: medida de consumo
+
+### Control remoto de reles
+
+![](./imagenes/7_control_rele_bb.png)
+
+Podemos utilizar relés para controlar cualquier dispositivo eléctrico
+
+Ejemplo: SmartCities/Eficiencia/Control_remoto
+
+
+### Medida de consumos
+
+![](./imagenes/Medida Consumo_bb.png)
+
+Utilizando el sensor ACS712 medidos la intensidad y por tanto el consumo de los dispositivos conectados a un relé
+
+Ejemplo: SmartCities/Eficiencia/Medida_consumo
