@@ -31,7 +31,7 @@ Ejemplo: SmartCities/Eficiencia/Control_remoto
 
 ### Medida de consumos
 
-![](./imagenes/Medida Consumo_bb.png)
+![](./imagenes/Medida_Consumo_bb.png)
 
 Utilizando el sensor ACS712 medidos la intensidad y por tanto el consumo de los dispositivos conectados a un relé
 
