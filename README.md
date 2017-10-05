@@ -19,6 +19,7 @@ Toda la información así como el control está disponible desde Internet posibi
 * Sensor de corriente
 * Reles para control remoto
 
+## https://goo.gl/AkbKuK
 
 ### Control remoto de reles
 
